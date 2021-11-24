@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I'm João Henrique 👋
 
 - 🌱 I’m currently learning the Java programming language.
-- 😄 Pronouns: He/her 
+- 😄 Pronouns: He/his 
 
 <div>
   <a href="https://github.com/SwordAway">
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Sword-godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg">
   <img align="center" alt="Sword-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Sword-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Sword-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="right" alt="Sword-Bob" src="https://data.whicdn.com/images/322428198/original.gif">
 </div>
   
