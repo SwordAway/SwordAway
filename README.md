@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm João Henrique 👋
 
-- 🌱 I’m currently learning the Godot,JavaScript, Python programming language.
+- 🌱 I’m currently learning the Godot, JavaScript, Python programming language.
 - 
 - 😄 Pronouns: He/his 
 
