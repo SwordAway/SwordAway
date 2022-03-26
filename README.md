@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### I'm João Henrique 👋
 
 - 🌱 I’m currently learning the Godot, JavaScript, Python, C programming language.
-- 
 - 😄 Pronouns: He/his 
 
 <div>
